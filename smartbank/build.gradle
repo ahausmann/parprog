@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: 'application'
 
 apply plugin: 'eclipse'
 // Run 'gradlew eclipse' for the eclipse project
@@ -8,6 +9,7 @@ apply plugin: 'idea'
 
 // Netbeans: See http://plugins.netbeans.org/plugin/44510/gradle-support
 
+mainClassName = "de.alexhausmann.parprog.MultiThreadTest"
 
 repositories {
   mavenCentral()

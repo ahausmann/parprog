@@ -1,4 +1,4 @@
-package de.dhbw.parprog;
+package de.alexhausmann.parprog;
 
 import static org.fest.assertions.Assertions.assertThat;
 

@@ -1,4 +1,4 @@
-package de.dhbw.parprog;
+package de.alexhausmann.parprog;
 
 import org.apache.commons.lang.NotImplementedException;
 

@@ -1,4 +1,4 @@
-package de.dhbw.parprog;
+package de.alexhausmann.parprog;
 
 
 public class IllegalAccountStateException extends RuntimeException {
