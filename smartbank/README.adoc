@@ -1,0 +1,8 @@
+
+Aufgabe smartbank
+=================
+
+In dieser Aufgabe musste eine thread-sichere Bank implementiert werden, bei der kein Geld verloren geht.
+
+* Keine globale Locks (pro Bank)
+* Kein Geld darf verloren gehen
