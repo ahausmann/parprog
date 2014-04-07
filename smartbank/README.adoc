@@ -6,3 +6,21 @@ In dieser Aufgabe musste eine thread-sichere Bank implementiert werden, bei der 
 
 * Keine globale Locks (pro Bank)
 * Kein Geld darf verloren gehen
+
+Erstellen
+---------
+
+[source,bash]
+----
+$ gradle build
+# Oder
+$ gradle distZip
+----
+
+Ausführen
+---------
+
+[source,bash]
+----
+$ gradle run
+----
